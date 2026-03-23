@@ -42,7 +42,7 @@ chmod +x ~/swiftbar-plugins/wifi-watcher.sh
 
 This plugin uses a macOS Shortcut called **"WiFi SSID"** to retrieve the current network name.
 
-![Setup](assets/setup.jpg)
+<img src="assets/setup.jpg" width="50%">
 
 1. Open the **Shortcuts** app
 2. Create a new Shortcut named `WiFi SSID`
