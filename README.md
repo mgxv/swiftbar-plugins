@@ -64,6 +64,9 @@ swiftbar-plugins/
     ├── README.md           ← plugin-specific setup instructions
     ├── wifi-ssid.sh        ← SwiftBar plugin script
     ├── wifi-watcher.sh     ← launchd watcher script
-    └── com.user.wifiwatcher.plist
+    ├── com.user.wifiwatcher.plist
+    └── assets/
+        ├── setup.jpg       ← screenshot: Shortcut setup
+        └── execution.jpg   ← screenshot: Shortcut execution
 ```
 
