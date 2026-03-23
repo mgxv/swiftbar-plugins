@@ -44,6 +44,10 @@ This plugin uses a macOS Shortcut called **"WiFi SSID"** to retrieve the current
 
 <img src="assets/setup.jpg" width="50%">
 
+[⬇️ Download the Shortcut](https://www.icloud.com/shortcuts/4669e64faf084256801d9c116aea5c72)
+
+Or create it manually:
+
 1. Open the **Shortcuts** app
 2. Create a new Shortcut named `WiFi SSID`
 3. Add the **Get Network Details** action and set it to return **Network Name**
